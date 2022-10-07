@@ -1,0 +1,12 @@
+D:\VS\CsvTest\CsvTest\bin\Debug\CsvTest.exe.config
+D:\VS\CsvTest\CsvTest\obj\Debug\CsvTest.csprojResolveAssemblyReference.cache
+D:\VS\CsvTest\CsvTest\bin\Debug\CsvTest.exe
+D:\VS\CsvTest\CsvTest\bin\Debug\CsvTest.pdb
+D:\VS\CsvTest\CsvTest\obj\Debug\CsvTest.exe
+D:\VS\CsvTest\CsvTest\obj\Debug\CsvTest.pdb
+D:\VS\Csv\CsvTest\bin\Debug\CsvTest.exe.config
+D:\VS\Csv\CsvTest\obj\Debug\CsvTest.exe
+D:\VS\Csv\CsvTest\obj\Debug\CsvTest.pdb
+D:\VS\Csv\CsvTest\bin\Debug\CsvTest.exe
+D:\VS\Csv\CsvTest\bin\Debug\CsvTest.pdb
+D:\VS\Csv\CsvTest\obj\Debug\CsvTest.csprojResolveAssemblyReference.cache

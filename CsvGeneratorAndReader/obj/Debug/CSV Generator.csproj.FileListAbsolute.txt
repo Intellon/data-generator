@@ -1,0 +1,15 @@
+D:\VS\Trunk\rch.HPSM.KSCSyncTool\CSV Generator\obj\Debug\CSV Generator.csprojResolveAssemblyReference.cache
+D:\VS\CSV Generator\bin\Debug\CSV Generator.exe
+D:\VS\CSV Generator\bin\Debug\CSV Generator.pdb
+D:\VS\CSV Generator\obj\Debug\CSV Generator.exe
+D:\VS\CSV Generator\obj\Debug\CSV Generator.pdb
+D:\VS\CSV Generator\obj\Debug\CSV Generator.csprojResolveAssemblyReference.cache
+D:\VS\CSV Generator\bin\Debug\Archiving.exe
+D:\VS\CSV Generator\bin\Debug\Archiving.pdb
+D:\VS\CSV Generator\bin\Debug\CSV Generator.exe.config
+D:\VS\Csv\CSV Generator\bin\Debug\CSV Generator.exe.config
+D:\VS\Csv\CSV Generator\obj\Debug\CSV Generator.exe
+D:\VS\Csv\CSV Generator\obj\Debug\CSV Generator.pdb
+D:\VS\DataGenerator\CsvGeneratorAndReader\bin\Debug\CSV Generator.exe.config
+D:\VS\DataGenerator\CsvGeneratorAndReader\obj\Debug\CSV Generator.exe
+D:\VS\DataGenerator\CsvGeneratorAndReader\obj\Debug\CSV Generator.pdb

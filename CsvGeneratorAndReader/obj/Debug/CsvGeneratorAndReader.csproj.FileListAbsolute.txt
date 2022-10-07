@@ -1,0 +1,14 @@
+D:\VS\DataGenerator\CsvGeneratorAndReader\bin\Debug\CSV Generator.exe.config
+D:\VS\DataGenerator\CsvGeneratorAndReader\bin\Debug\CSV Generator.exe
+D:\VS\DataGenerator\CsvGeneratorAndReader\bin\Debug\CSV Generator.pdb
+D:\VS\DataGenerator\CsvGeneratorAndReader\obj\Debug\CSV Generator.exe
+D:\VS\DataGenerator\CsvGeneratorAndReader\obj\Debug\CSV Generator.pdb
+D:\VS\DataGenerator\CsvGeneratorAndReader\obj\Debug\CsvGeneratorAndReader.csprojResolveAssemblyReference.cache
+D:\Entwickler\VS\development\DataGenerator\CsvGeneratorAndReader\obj\Debug\CSV Generator.exe
+D:\Entwickler\VS\development\DataGenerator\CsvGeneratorAndReader\obj\Debug\CSV Generator.pdb
+D:\Entwickler\VS\development\DataGenerator\CsvGeneratorAndReader\bin\Debug\CSV Generator.exe.config
+D:\Entwickler\VS\development\DataGenerator\CsvGeneratorAndReader\bin\Debug\CSV Generator.exe
+D:\Entwickler\VS\development\DataGenerator\CsvGeneratorAndReader\bin\Debug\CSV Generator.pdb
+D:\Entwickler\VS\development\DataGenerator\CsvGeneratorAndReader\obj\Debug\CsvGeneratorAndReader.csproj.AssemblyReference.cache
+D:\Entwickler\VS\development\DataGenerator\CsvGeneratorAndReader\obj\Debug\CsvGeneratorAndReader.csproj.SuggestedBindingRedirects.cache
+D:\Entwickler\VS\development\DataGenerator\CsvGeneratorAndReader\obj\Debug\CsvGeneratorAndReader.csproj.CoreCompileInputs.cache
