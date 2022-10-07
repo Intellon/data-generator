@@ -1,0 +1,4 @@
+D:\VS\CSV Generator\bin\Release\CSV Generator.dll
+D:\VS\CSV Generator\bin\Release\CSV Generator.pdb
+D:\VS\CSV Generator\obj\Release\CSV Generator.dll
+D:\VS\CSV Generator\obj\Release\CSV Generator.pdb
